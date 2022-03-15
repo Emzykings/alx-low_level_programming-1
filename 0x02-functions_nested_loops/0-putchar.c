@@ -21,9 +21,9 @@ int main(void)
 
 	{
 
-		_putchar(c[i]);
+	_putchar(c[i]);
 
-		i++;
+	i++;
 
 	}
 
